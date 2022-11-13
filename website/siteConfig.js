@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: cristian-zelaya-reyes-297463223,
+        linkedin: 'cristian-zelaya-reyes-297463223',
         github: 'cizelayareyes',
     },
 
